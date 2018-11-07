@@ -1,0 +1,104 @@
+###################################################
+# Themes Edited By Deniraa wednesday-02-may-2018  #
+###################################################
+
+# Window focused
+window.active.title.bg: flat solid
+window.active.title.bg.color: #E3E5E6
+window.active.title.bg.shadow: 0
+window.active.title.bg.highlight: 80
+window.active.title.separator.color: #1A7A71
+
+window.label.text.justify: center
+window.active.label.bg: Parentrelative
+window.active.label.text.color: #070707
+
+window.active.handle.bg: Raised Solid
+window.active.handle.bg.color: #070707
+window.active.handle.bg.shadow: 0
+window.active.handle.bg.highlight: 96
+
+window.active.grip.bg: Flat Solid
+window.active.grip.bg.color: #7F283D
+
+window.active.button.hover.bg: Flat Solid Border
+window.active.button.hover.bg.border.color: #7F283D
+window.active.button.hover.bg.color: #1A7A71
+
+
+window.active.button.unpressed.bg: Parentrelative
+window.active.button.unpressed.image.color: #E3E5E6
+
+window.active.button.pressed.bg: Parentrelative Border
+window.active.button.pressed.image.color: #070707
+window.active.button.pressed.bg.border.color: #7F283D
+
+window.active.button.disabled.bg: Parentrelative
+window.active.button.disabled.image.color: #E3E5E6
+
+window.active.button.toggled.bg: Parentrelative Flat Border
+window.active.button.toggled.bg.border.color: #1A7A71
+window.active.button.toggled.unpressed.image.color: #E3E5E6
+window.active.button.toggled.hover.bg: Solid Flat Border
+window.active.button.toggled.hover.bg.color: #1A7A71
+window.active.button.toggled.hover.bg.border.color: #E3E5E6
+
+
+# Window unfocused
+window.inactive.title.bg: flat solid
+window.inactive.title.bg.color: #1A7A71
+window.inactive.title.bg.shadow: 0
+window.inactive.title.bg.highlight: 128
+window.inactive.title.separator.color: #E3E5E6
+
+window.inactive.label.bg: Parentrelative
+window.inactive.label.text.color: #070707
+
+window.inactive.handle.bg: Raised Solid
+window.inactive.handle.bg.color: #070707
+
+window.inactive.grip.bg: Flat Solid
+window.inactive.grip.bg.color: #7F283D
+
+window.inactive.button.unpressed.bg: Parentrelative
+window.inactive.button.unpressed.image.color: #1A7A71
+
+window.inactive.button.disabled.bg: Parentrelative
+window.inactive.button.disabled.image.color: #E3E5E6
+
+window.inactive.button.toggled.bg: Parentrelative Flat Border
+window.inactive.button.toggled.bg.border.color: #E3E5E6
+window.inactive.button.toggled.bg.color: #070707
+
+menu.items.bg: Flat Solid
+menu.items.bg.color: #1B1A1A
+menu.border.color: #7F283D 
+menu.border.width: 2
+menu.items.active.bg: Flat Solid Border
+menu.items.active.bg.border.color: #E3E5E6
+menu.items.active.bg.color: #1A7A71
+menu.title.text.color: #E3E5E6
+menu.items.text.color: #E3E5E6
+menu.items.active.text.color: #070707
+menu.items.disabled.text.color: #1A7A71
+menu.overlap: -7
+
+osd.bg: Raised Solid
+osd.border.color: #7F283D
+osd.bg.color: #E3E5E6
+osd.bg.shadow: 16
+osd.bg.highlight: 96
+
+# Everything else
+padding.width: 3
+window.client.padding.width: 3
+window.client.padding.height: 3
+window.handle.width: 2
+window.active.border.color: #7F283D
+window.inactive.border.color: #E3E5E6
+window.active.client.color: #1A7A71
+window.inactive.client.color: #E3E5E6
+
+# Fonts
+window.active.label.text.font: bold:pixelsize=12:shadow=y:shadowtint=70:shadowoffset=1
+window.inactive.label.text.font: bold:pixelsize=12:shadow=y:shadowtint=70:shadowoffset=1
